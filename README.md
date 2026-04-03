@@ -43,7 +43,7 @@ MDST_MarketBridge_Case_Study/
 | # | Artifact | File |
 |---|---|---|
 | 1 | Manager OS Document | [manager-os.md](manager-os.md) |
-| 2 | Hiring Packet | [hiring-packet/](hiring-packet/) |
+| 2 | Hiring Packet | [job-description.md](hiring-packet/job-description.md), [work-sample.md](hiring-packet/work-sample.md), [rubric.md](hiring-packet/rubric.md), [interview-loop.md](hiring-packet/interview-loop.md) |
 | 3 | Roadmap + Executive Narrative | [roadmap-rice.md](roadmap-rice.md) + [exec-narrative.md](exec-narrative.md) |
 | 4 | QBR Outline + QBR Video | [qbr-outline.md](qbr-outline.md) + [Video](https://www.youtube.com/watch?v=LYLEfYVfPho) |
 | 5 | Personal Growth Plan | [pgp.md](pgp.md) |

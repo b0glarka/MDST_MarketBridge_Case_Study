@@ -10,22 +10,22 @@
 
 ### Required Portfolio Components (6)
 
-| # | Component | Status |
-|---|---|---|
-| 1 | Manager OS Document (2-4 pp) | Final |
-| 2 | Hiring Packet (JD + Work Sample + Rubric + Interview Loop) | Final |
-| 3 | Roadmap + Executive Narrative | Final |
-| 4 | QBR Outline + QBR Video | Final |
-| 5 | Personal Growth Plan | Final |
-| 6 | Performance Summary | Final |
+| # | Component | File | Status |
+|---|---|---|---|
+| 1 | Manager OS Document (2-4 pp) | [manager-os.md](manager-os.md) | Final |
+| 2 | Hiring Packet | [job-description.md](hiring-packet/job-description.md), [work-sample.md](hiring-packet/work-sample.md), [rubric.md](hiring-packet/rubric.md), [interview-loop.md](hiring-packet/interview-loop.md) | Final |
+| 3 | Roadmap + Executive Narrative | [roadmap-rice.md](roadmap-rice.md) + [exec-narrative.md](exec-narrative.md) | Final |
+| 4 | QBR Outline + QBR Video | [qbr-outline.md](qbr-outline.md) + [Video](https://www.youtube.com/watch?v=LYLEfYVfPho) + [Slides](MarketBridge_QBR_Q1_2026.pdf) | Final |
+| 5 | Personal Growth Plan | [pgp.md](pgp.md) | Final |
+| 6 | Performance Summary | [performance-summary.md](performance-summary.md) | Final |
 
 ### Optional Artifacts
 
-| # | Artifact | Status |
-|---|---|---|
-| 7 | RACI Matrix | Final |
-| 8 | Decision Memo (Mixpanel renewal) | Final |
-| 9 | Data Infrastructure Decision Brief | Final |
+| # | Artifact | File | Status |
+|---|---|---|---|
+| 7 | RACI Matrix | [supporting/raci.md](supporting/raci.md) | Final |
+| 8 | Decision Memo (Mixpanel renewal) | [supporting/decision-memo.md](supporting/decision-memo.md) | Final |
+| 9 | Data Infrastructure Decision Brief | [supporting/data-infra-decision-brief.md](supporting/data-infra-decision-brief.md) | Final |
 
 ---
 
