@@ -140,6 +140,19 @@ This is the backbone of the roadmap. Everything else either feeds into this path
 
 ---
 
+## Risk Register
+
+| # | Risk | Likelihood | Impact | Mitigation | Owner |
+|---|---|---|---|---|---|
+| 1 | AE hire takes longer than 6 weeks | Medium | High | Head of Analytics + Senior Analyst begin dbt audit in parallel. Mixpanel bridge extends (tied to deliverable, not date). Glossary governance continues with current team. | Head of Analytics |
+| 2 | Stakeholders cannot agree on metric definitions | Medium | High | Monthly glossary governance meeting with escalation to CTO if consensus not reached. Start with the 5 board-facing metrics, not all 15 at once. | Head of Analytics |
+| 3 | Engineering schema changes break pipelines without notification | High | Medium | Requesting written SLA: 2-sprint advance notice. Configuring existing Fivetran alerts + dbt tests as part of AE 90-day outcomes. | Head of Analytics + Engineering |
+| 4 | Q3 GDPR audit finds gaps in PII inventory | Medium | High | Data inventory started in month 1 (not waiting for AE). Legal partnership active. DSA and DAC7 requirements surfaced proactively. | Head of Analytics + Legal (Anya) |
+| 5 | Senior analyst leaves before Salesforce knowledge is documented | Low | High | Knowledge transfer structured into AE onboarding. Documentation of Salesforce joins is part of initiative #4 (audit-ready). Analyst retention is a guardrail metric. | Head of Analytics |
+| 6 | Mixpanel bridge costs accumulate if AE delivery slips | Low | Medium | Bridge is at a reduced rate (~$4-5K/month vs. $7K). Sunset trigger is deliverable-based (5+ PM weekly users on replacement dashboard). Even extended bridge is cheaper than full renewal. | Head of Analytics |
+
+---
+
 ## Metrics Tree
 
 _The core argument: self-serve adoption is a two-sided multiplier that connects directly to the board's profitability mandate._
