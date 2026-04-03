@@ -12,17 +12,17 @@
 ```
 MDST_MarketBridge_Case_Study/
 ├── README.md                              # This file
-├── manager-os.md                          # Manager OS (15%)
+├── manager-os.md                          # Manager OS
 ├── hiring-packet/
 │   ├── job-description.md                 # Analytics Engineer role
 │   ├── work-sample.md                     # Metric reconciliation exercise
 │   ├── rubric.md                          # 6-dimension scoring rubric
 │   └── interview-loop.md                  # 5-stage interview design
-├── roadmap-rice.md                        # 12-month roadmap with RICE (15%)
+├── roadmap-rice.md                        # 12-month roadmap with RICE
 ├── exec-narrative.md                      # Executive narrative
-├── qbr-outline.md                         # QBR outline (10%)
-├── pgp.md                                # Personal Growth Plan (7.5%)
-├── performance-summary.md                 # Kevin L4, Below Expectations (7.5%)
+├── qbr-outline.md                         # QBR outline
+├── pgp.md                                 # Personal Growth Plan
+├── performance-summary.md                 # Kevin L4, Below Expectations
 ├── supporting/
 │   ├── decision-memo.md                   # Mixpanel renewal decision
 │   ├── raci.md                            # Decision authority matrix
