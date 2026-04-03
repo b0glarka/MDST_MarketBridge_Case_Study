@@ -32,16 +32,22 @@ MDST_MarketBridge_Case_Study/
 
 ---
 
+## Portfolio Checklist and Self-Assessment
+
+[portfolio-checklist.md](portfolio-checklist.md)
+
+---
+
 ## Required Artifacts (6)
 
-| # | Artifact | Weight | File |
-|---|---|---|---|
-| 1 | Manager OS Document | 15% | [manager-os.md](manager-os.md) |
-| 2 | Hiring Packet | 20% | [hiring-packet/](hiring-packet/) |
-| 3 | Roadmap + Executive Narrative | 15% | [roadmap-rice.md](roadmap-rice.md) + [exec-narrative.md](exec-narrative.md) |
-| 4 | QBR Outline + QBR Video | 10% | [qbr-outline.md](qbr-outline.md) + [Video](https://www.youtube.com/watch?v=LYLEfYVfPho) |
-| 5 | Personal Growth Plan | 7.5% | [pgp.md](pgp.md) |
-| 6 | Performance Summary | 7.5% | [performance-summary.md](performance-summary.md) |
+| # | Artifact | File |
+|---|---|---|
+| 1 | Manager OS Document | [manager-os.md](manager-os.md) |
+| 2 | Hiring Packet | [hiring-packet/](hiring-packet/) |
+| 3 | Roadmap + Executive Narrative | [roadmap-rice.md](roadmap-rice.md) + [exec-narrative.md](exec-narrative.md) |
+| 4 | QBR Outline + QBR Video | [qbr-outline.md](qbr-outline.md) + [Video](https://www.youtube.com/watch?v=LYLEfYVfPho) |
+| 5 | Personal Growth Plan | [pgp.md](pgp.md) |
+| 6 | Performance Summary | [performance-summary.md](performance-summary.md) |
 
 ## QBR Video
 

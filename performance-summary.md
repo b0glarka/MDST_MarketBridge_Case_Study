@@ -4,7 +4,7 @@
 |-------|---------|
 | **Student Name** | Boga Petruska |
 | **Date** | 2026-03-23 |
-| **Case Context** | Medium (Series B) |
+| **Case Context** | Medium (Series B) -- MarketBridge |
 | **Subject** | Kevin — L4 Staff Data Scientist |
 | **Review Period** | H2 2025 |
 

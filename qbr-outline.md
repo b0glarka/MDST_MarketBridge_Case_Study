@@ -2,7 +2,9 @@
 
 **Student Name:** Boga Petruska\
 **Date:** 2026-04-02\
-**Case Context:** Medium (Series B) -- MarketBridge
+**Case Context:** Medium (Series B) -- MarketBridge\
+**QBR Video:** [Watch on YouTube](https://www.youtube.com/watch?v=LYLEfYVfPho)\
+**QBR Slides:** [MarketBridge_QBR_Q1_2026.pdf](MarketBridge_QBR_Q1_2026.pdf)
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Student Name:** Boga Petruska\
 **Date:** 2026-04-02\
-**Case Context:** [x] Medium (Series B)\
+**Case Context:** Medium (Series B) -- MarketBridge\
 **Target Role:** Analytics Engineer\
 **Target Level:** Mid (Senior offer if justified by performance)
 

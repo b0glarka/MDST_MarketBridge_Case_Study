@@ -2,7 +2,7 @@
 
 **Student Name:** Boga Petruska\
 **Date:** 2026-04-02\
-**Case Context:** [x] Medium (MarketBridge)
+**Case Context:** Medium (Series B) -- MarketBridge
 
 ---
 

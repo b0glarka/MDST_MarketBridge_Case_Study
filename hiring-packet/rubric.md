@@ -1,9 +1,9 @@
 # Scoring Rubric
 
-**Student Name:** Boga Petruska
-**Date:** 2026-03-16
-**Case Context:** [x] Medium (Series B)
-**Target Role:** Analytics Engineer
+**Student Name:** Boga Petruska\
+**Date:** 2026-03-16\
+**Case Context:** Medium (Series B) -- MarketBridge\
+**Target Role:** Analytics Engineer\
 **Target Level:** Mid (Senior offer if candidate demonstrates Expert-level Technical Execution and Definition Rigor)
 
 ---

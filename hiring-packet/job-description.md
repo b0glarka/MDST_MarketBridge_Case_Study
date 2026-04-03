@@ -1,10 +1,10 @@
 # Job Description
 
-**Student Name:** Boga Petruska
-**Date:** 2026-03-16
-**Case Context:** [x] Medium (Series B)
-**Role Title:** Analytics Engineer
-**Level:** [x] Mid / [ ] Senior
+**Student Name:** Boga Petruska\
+**Date:** 2026-03-16\
+**Case Context:** Medium (Series B) -- MarketBridge\
+**Role Title:** Analytics Engineer\
+**Level:** Mid
 
 ---
 
